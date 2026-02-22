@@ -94,3 +94,12 @@ See [`SKILLS_VERSION_MANIFEST.md`](SKILLS_VERSION_MANIFEST.md) for the complete 
 ## About FUUZ
 
 [FUUZ](https://fuuz.app) is a Manufacturing Execution System (MES) platform supporting ISA-88 batch processing, ISA-95 enterprise integration, OEE tracking, and industrial IoT — built for manufacturers who need flexible, configurable production management.
+
+## Resources
+
+| Resource | Link | Description |
+|----------|------|-------------|
+| **Free Trial** | [fuuz.app](https://fuuz.app) | Request your free trial of FUUZ |
+| **Get Started** | [getstarted.fuuz.com](https://getstarted.fuuz.com) | Introductory videos and walkthroughs to get up and running |
+| **FUUZ Academy** | [academy.fuuz.com](https://academy.fuuz.com) | Online LMS with structured courses and certifications |
+| **Support & Community** | [support.fuuz.com](https://support.fuuz.com) | Knowledge base, documentation, and customer community |
