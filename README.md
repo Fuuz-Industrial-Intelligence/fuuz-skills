@@ -1,6 +1,6 @@
 # FUUZ Skills
 
-Claude Code skills for building applications on the [FUUZ](https://fuuz.app) MES platform — covering data modeling, package generation, screen design, data flows, GraphQL/JSONata, industrial operations, and ML telemetry.
+Claude Code skills for building applications on the [FUUZ](https://fuuz.app) Industrial Intelligence platform — covering data modeling, package generation, screen design, data flows, GraphQL/JSONata, industrial operations, and ML telemetry.
 
 ## What Are FUUZ Skills?
 
